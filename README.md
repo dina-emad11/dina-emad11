@@ -1,6 +1,5 @@
 <div align="center" width="50">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+    
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Dina%20Emad&fontSize=50" width="100%" />
 ### **Dina Emad**
 
