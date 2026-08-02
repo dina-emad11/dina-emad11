@@ -1,6 +1,7 @@
 <div align="center" width="50">
     
 <img src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=200&section=header&text=Hi👋%20I'm%20Dina%20Emad&fontSize=50" width="100%" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
 
 <br>
 
