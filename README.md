@@ -8,9 +8,9 @@
 <br>
 
 <!-- Social Media Links -->
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM_USERNAME)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/YOUR_FACEBOOK_USERNAME)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_TELEGRAM_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dinaemad77)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/17G6h1orog/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dina-emad-981a18372)
 
 <br><br>
 
@@ -24,6 +24,7 @@
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -42,7 +43,7 @@ public:
     string track = "Artificial Intelligence (AI)";
     
     struct Skills {
-        vector<string> languages = {"Python", "C++", "PHP", "JavaScript"};
+        vector<string> languages = {"Python", "C++", "C", "PHP", "JavaScript"};
         vector<string> webDev = {"HTML5", "CSS3", "JavaScript", "PHP"};
         vector<string> database = {"MySQL"};
         vector<string> tools = {"Git", "VS Code"};
